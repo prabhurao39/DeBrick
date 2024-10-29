@@ -19,3 +19,4 @@ App Endpoints
 To upload a file http://localhost:8080/api/upload
 
 
+<img width="1454" alt="Screenshot 2024-10-30 at 12 51 16 AM" src="https://github.com/user-attachments/assets/8b6fdfb1-d928-4fa6-afcf-c327bf7001e6">
