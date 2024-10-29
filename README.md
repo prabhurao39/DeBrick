@@ -30,3 +30,12 @@ Steps to run the project :
 2. Run mvn clean install
 3. Use the api to upload the file
 4. If vulnerabilities exist in the file, an email is sent.
+
+
+    Email Notification info
+<img width="1454" alt="Screenshot 2024-10-30 at 12 51 16 AM" src="https://github.com/user-attachments/assets/650197d1-9b1f-4aaa-8b89-0273d292015b">
+
+   Repository info
+<img width="1372" alt="Screenshot 2024-10-30 at 12 53 56 AM" src="https://github.com/user-attachments/assets/580d61c5-ca59-45e5-a93c-243986842354">
+
+   
